@@ -1,0 +1,6 @@
+I have changed my docker desktop data location from:
+	C:\Users\Debanjan Sarkar\AppData\Local\Docker\wsl\data
+to:
+	D:\Softwares\Docker\wsl\data
+
+For further change of location, the D:\ drive location should be used.
